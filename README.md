@@ -70,6 +70,11 @@ Create an entire ETL process in a database & a Power BI dashboard to utilize the
 - Screenshot
 <img width="1282" height="717" alt="Screenshot 2025-08-11 205446" src="https://github.com/user-attachments/assets/337ae9c8-dd34-45a3-8d19-38db55f2edd5" />
 
+## 👩‍💻 Author
+
+**Priyanka Rath**  
+Final Year B.Tech Student 
+
 
 
 
